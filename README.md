@@ -28,6 +28,6 @@ Training and Placement Officer have to collect the information of students and m
 
 • MERN Stack
 
-• Ract.js (Frontend)
+• React.js (Frontend)
 
 • MongoDB DataBase (Backend Database)
