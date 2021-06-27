@@ -11,11 +11,17 @@ Training and Placement Officer have to collect the information of students and m
 # Features:
 
 • Students’ registration
+
 • Display current placement drives & Results
+
 • Scheduled Training plans
+
 • Facility to add/delete e-Resources
+
 • Assessment Schedules
+
 • placement statistics (institute level, department level and at individual level)
+
 • Display Individual Students’ Performance.
 
 # Web Presentation: 
