@@ -22,6 +22,8 @@ Features:
 
 Web Presentation: 
 
-• MERN Stack 
+• MERN Stack
+
 • Ract.js (Frontend)
+
 • MongoDB DataBase (Backend Database)
