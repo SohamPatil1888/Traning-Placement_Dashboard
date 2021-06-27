@@ -31,3 +31,21 @@ Training and Placement Officer have to collect the information of students and m
 • React.js (Frontend)
 
 • MongoDB DataBase (Backend Database)
+
+# To Run
+
+Fire below commands to start this project in VS Code terminal
+
+In Backend folder 
+
+• Npm init
+
+• node server.js / nodemon server
+
+In Client folder
+
+• Npm init
+
+• Npm start
+
+
